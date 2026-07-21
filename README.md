@@ -148,19 +148,19 @@ Advanced SQL queries were written to solve business problems using:
 
 ## Sales by Branch
 
-![Sales_by_Branch](images/sales_by_branch.png)
+![Sales_by_Branch](images/Sales_by_Branch.png)
 
 ---
 
 ## Sales by City
 
-![Sales_by_City](images/sales_by_city.png)
+![Sales_by_City](images/Sales_by_City.png)
 
 ---
 
 ## SQL Query Output
 
-![SQL_Query](images/sql_query_1.png)
+![SQL_Query](images/SQL_Queries_1.png)
 
 ---
 
