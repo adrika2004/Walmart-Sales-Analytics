@@ -7,7 +7,7 @@ group by payment_method
 
 Select count(distinct branch) from walmart_sales
 
-Select min(quantity) from 
+Select min(quantity) from walmart_sales
 
 --Business problems
 
