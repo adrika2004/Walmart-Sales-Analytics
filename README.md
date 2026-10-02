@@ -13,13 +13,10 @@ The project demonstrates data preprocessing, visualization, statistical analysis
 - Python
 - MySQL
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
-- Git
-- GitHub
 
+  
 ---
 
 ## 📂 Project Structure
