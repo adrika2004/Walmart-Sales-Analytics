@@ -186,12 +186,3 @@ Advanced SQL queries were written to solve business problems using:
 - Git & GitHub Version Control
 
 ---
-
-# 🔮 Future Improvements
-
-- Build an interactive Power BI dashboard
-- Develop a Tableau dashboard
-- Create a Streamlit web application
-- Add Sales Forecasting using Machine Learning
-
----
